@@ -27,3 +27,5 @@
 ![W1lliam-Mendes's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W1lliam-Mendes&theme=radical)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
+
+![snake](https://raw.githubusercontent.com/W1lliam-Mendes/W1lliam-Mendes/output/github-contribution-grid-snake-dark.svg)
