@@ -1,9 +1,13 @@
-## Olá, me chamo William Mendes
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7b2ff7&height=120&section=header"/>
+</div>
+
+<h1 align="center">Olá, me chamo William Mendes 👋</h1>
 - 🔭 Iniciante no mundo dev
 - 📫 Entre em contato comigo: williamendesdp@gmail.com
 - 😄 Pronomes: ele/dele
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+<p align="center">💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia</p>
 </p><br><br>
 
 ## 🚀 Linguagens de Programação
