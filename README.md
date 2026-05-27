@@ -27,3 +27,9 @@
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊<br><br>
 
 ![snake](https://raw.githubusercontent.com/W1lliam-Mendes/W1lliam-Mendes/output/github-contribution-grid-snake-dark.svg)
+
+<div align="left">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=W1lliam-Mendes.W1lliam-Mendes&left_color=%234a0080&right_color=%237b2ff7)
+
+</div>
