@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,sql&theme=dark)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,mysql,windows,linux&theme=dark)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 [![Gmail Badge](https://img.shields.io/badge/Gmail-williamendesdp%40gmail.com-6e40c9?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=4a0080)](mailto:williamendesdp@gmail.com)
