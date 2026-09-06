@@ -22,7 +22,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-wil__mdp-9b59b6?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=4a0080)](https://www.instagram.com/wil_mdp/)
 <br><br>
 
-![W1lliam-Mendes's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W1lliam-Mendes&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=W1lliam-Mendes&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=808080&dates=808080&sideNums=808080&currStreakNum=3B82F6" alt="GitHub Streak" />
+</p>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊<br><br>
 
