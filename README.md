@@ -2,13 +2,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7b2ff7&height=120&section=header"/>
 </div>
 
-<h1 align="center">Olá, me chamo William Mendes 👋</h1>
-- 🔭 Iniciante no mundo dev
-- 📫 Entre em contato comigo: williamendesdp@gmail.com
-- 😄 Pronomes: ele/dele
+<h1 align="center">Olá, eu sou o William Mendes 👋</h1>
+
 <p align="center">
-<p align="center">💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia</p>
-</p><br><br>
+  <b>Estudante de Desenvolvimento de Sistemas</b>
+</p>
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript&theme=dark)](https://skillicons.dev)<br><br>
