@@ -9,7 +9,7 @@
 </p>
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript&theme=dark)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript&theme=dark)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,mysql,windows,linux,flask,spring&theme=dark)](https://skillicons.dev)<br><br>
