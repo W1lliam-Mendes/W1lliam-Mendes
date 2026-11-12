@@ -2,19 +2,19 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7b2ff7&height=120&section=header"/>
 </div>
 
-<h1 align="center">Olá, eu sou o William Mendes 👋</h1>
+<h1 align="center">Olá, eu sou o William Mendes</h1>
 
 <p align="center">
   <b>Estudante de Desenvolvimento de Sistemas</b>
 </p>
 
-## 🚀 Linguagens de Programação
+##  Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript&theme=dark)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias
+##  Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,mysql,windows,linux,flask,spring&theme=dark)](https://skillicons.dev)<br><br>
 
-## 📫 Contato
+##  Contato
 [![Gmail Badge](https://img.shields.io/badge/Gmail-williamendesdp%40gmail.com-6e40c9?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=4a0080)](mailto:williamendesdp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-William_Mendes-7b2ff7?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=4a0080)](https://www.linkedin.com/in/william-mendes-5889533ab/)
 [![Instagram](https://img.shields.io/badge/Instagram-wil__mdp-9b59b6?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=4a0080)](https://www.instagram.com/wil_mdp/)
